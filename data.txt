@@ -1,0 +1,2 @@
+{"name":"samiksha","age":"23","city":"pune","salary":"123"}
+*{"name":"Madhuri","age":"24","city":"Mumbai","salary":"45667"}*{"name":"Mayur","age":"19","city":"Pune","salary":"54678"}*{"name":"madhuriambole","age":"30","city":"Satara","salary":"40000"}
